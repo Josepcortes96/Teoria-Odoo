@@ -47,11 +47,6 @@ El contenido está dividido en bloques relacionados con la parte del **servidor 
    - Parámetro `addons_path`.  
    - Instalación de módulos.  
 
-7. **Banco de preguntas**  
-   - Preguntas básicas.  
-   - Preguntas sobre ORM.  
-   - Preguntas de seguridad.  
-   - Preguntas de infraestructura.  
 
 ---
 
