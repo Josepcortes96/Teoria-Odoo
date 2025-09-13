@@ -1,6 +1,6 @@
 # 📚 Teoría Odoo  
 
-Repositorio creado por **Josep Cortés**, con el objetivo de recopilar **preguntas, teoría y conceptos básicos de Odoo** para facilitar el aprendizaje y servir como material de estudio.  
+Repositorio creado por **Josep Cortés Mañanich**, con el objetivo de recopilar **preguntas, teoría y conceptos básicos de Odoo** para facilitar el aprendizaje y servir como material de estudio.  
 
 ---
 
