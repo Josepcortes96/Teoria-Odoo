@@ -19,19 +19,11 @@ Tener un material de referencia rápido y en español.
 El contenido está dividido en bloques relacionados con la parte del servidor (backend en Python) y la teoría general de Odoo:
 
 1-Introducción a Odoo
-<<<<<<< HEAD
-=======
-
->>>>>>> e07cff7 ( readme-actualizado)
   -¿Qué es Odoo?
   -Arquitectura general.
   -Community vs Enterprise.
 
 2-Estructura de un módulo
-<<<<<<< HEAD
-=======
-
->>>>>>> e07cff7 ( readme-actualizado)
   -Archivos principales (__manifest__.py, __init__.py).
   -Organización de carpetas (models, views, security, data).
 
@@ -59,11 +51,7 @@ El contenido está dividido en bloques relacionados con la parte del servidor (b
   odoo.conf.
   addons_path.
 
-<<<<<<< HEAD
 Instalación de módulos.
-=======
-7-Instalación de módulos.
->>>>>>> e07cff7 ( readme-actualizado)
 
 PREGUNTAS TEORICAS
 
